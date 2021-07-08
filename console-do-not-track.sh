@@ -13,4 +13,4 @@ export HOMEBREW_NO_ANALYTICS=1; # Homebrew
 export STNOUPGRADE=1; # Syncthing
 export DOTNET_CLI_TELEMETRY_OPTOUT=1; # .NET Core
 export SAM_CLI_TELEMETRY=0; # AWS Serverless Application Model CLI
-exportAZURE_CORE_COLLECT_TELEMETRY=0; # Microsoft Azure CLI
+export AZURE_CORE_COLLECT_TELEMETRY=0; # Microsoft Azure CLI
